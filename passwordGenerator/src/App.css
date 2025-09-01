@@ -1,1 +1,7 @@
-h1{font-size: 2rem;text-align: center;color: white;}
+#maindiv{background-color: beige;color: brown;margin: auto;height: 40vh;width: 50vw;border-radius: 1rem; position: relative;}
+h1{text-align: center;}
+#textbox{width: 70%;margin: auto;height: 10%;border-radius: 0.7rem;}
+#copybutton{background-color: blue;height: 4vh; width: 5vw; border-radius: 0.2rem;position: absolute; margin-left: 37vw;position: absolute;margin-top: -2.3vw;text-align: center;}
+#copybutton:hover{background-color: rgba(0, 0, 255, 0.242);border: 1px solid black;cursor: pointer;}
+
+#passLength{display: inline-block;}
